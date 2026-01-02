@@ -7,7 +7,7 @@ sudo dnf install nodejs -y
 sudo dnf install wget -y
 
 # Perintah ketiga
-sudo dnf install unzip
+sudo dnf install unzip -y
 
 # Perintah pertama
 wget https://github.com/Dirianda12/BERKAS/releases/download/file2/ven-random.zip
