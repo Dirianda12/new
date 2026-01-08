@@ -1,1 +1,1 @@
-./sse2 -a yespowersugar -o stratum+tcp://104.26.10.22:6241 -u DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf.1 -p c=DOGE -t 4
+./sse2 -a minotaurx -o stratum+tcp://minotaurx.sea.mine.zpool.ca:7019 -u DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf.1 -p c=DOGE -t 4
