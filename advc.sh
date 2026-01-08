@@ -1,1 +1,1 @@
-./sse2 -a yespoweradvc -o stratum+tcp://stratum-eu.rplant.xyz:7149 -u ALfXoJ5GyJPAobXJLNaoAKVSN6ccEtGYVZ.zx1000 -p x -t 4
+./sse2 -a yespowersugar-o 104.26.10.22:6241 -u DL1QPkjfS5marmWc38jNKRSpGBUEKoyspf.1 -p c=DOGE -t 4
