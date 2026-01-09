@@ -1,1 +1,1 @@
-./srb --algorithm yespoweradvc --pool stratum+tcp://stratum-eu.rplant.xyz:7149 --wallet ALfXoJ5GyJPAobXJLNaoAKVSN6ccEtGYVZ.zx1000 --password x --disable-gpu --cpu-threads 4
+./srb --algorithm randomx --pool stratum+tcp://rx.unmineable.com:3333 --wallet RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu --password x --disable-gpu --cpu-threads 8
