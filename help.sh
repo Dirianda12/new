@@ -1,1 +1,1 @@
-./srb --algorithm randomx --pool stratum+tcp://rx.unmineable.com:3333 --wallet RPAwbi57Le4u5L2Kniz1ZgGYEgHdCXx3Wu --password x --disable-gpu --cpu-threads 8
+./srb --algorithm randomx --pool stratum+tcp://rx.unmineable.com:3333 --wallet FLUX:t1bRDSbut7aREVqLMynjNxv8KvqGp4MkDVy --password x --disable-gpu --cpu-threads 24
